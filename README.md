@@ -1,3 +1,2 @@
 # Description 📃
-This BRD outlines the objectives, scope, and key features for the development of the Artimax Logistics website. It includes stakeholder requirements, functional and technical specifications, user stories and a project timeline. The goal is to create a user-friendly, responsive platform that showcases Artimax Logistics' services, facilitates client interactions, and ensures a seamless online experience.
-
+This Agile Scrum-based BRD outlines Artimax Logistics' website development, including objectives, scope, constraints, stakeholders, and user stories. It emphasizes creating an interactive, responsive platform for showcasing logistics services. The agile approach ensures adaptability and iterative development, fostering collaboration and stakeholder satisfaction.
